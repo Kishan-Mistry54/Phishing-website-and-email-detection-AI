@@ -1,0 +1,101 @@
+email_id,sender,subject,has_suspicious_link,contains_urgent_language,is_phishing
+1,support@paypal-secure.com,Urgent: Verify Your Account,1,1,1
+2,info@google.com,Welcome to Google Services,0,0,0
+3,admin@bank-login.net,Your Account is Locked,1,1,1
+4,noreply@amazon.com,Order Confirmation,0,0,0
+5,security@fakebank.com,Update Your Password Now,1,1,1
+6,notifications@github.com,New Repository Created,0,0,0
+7,alert@secure-login.org,Account Suspension Notice,1,1,1
+8,support@linkedin.com,Connection Request,0,0,0
+9,verify@netflix-login.com,Action Required: Verify Account,1,1,1
+10,info@microsoft.com,Windows Update Available,0,0,0
+11,admin@secure-pay.com,Payment Failed - Retry Now,1,1,1
+12,team@slack.com,New Message in Channel,0,0,0
+13,alert@bank-secure.net,Unusual Activity Detected,1,1,1
+14,support@dropbox.com,File Shared with You,0,0,0
+15,security@fake-login.com,Login Attempt Blocked,1,1,1
+16,info@zoom.us,Meeting Scheduled,0,0,0
+17,verify@apple-id.com,Apple ID Verification Needed,1,1,1
+18,noreply@twitter.com,New Follower Notification,0,0,0
+19,alert@secure-bank.org,Update Billing Information,1,1,1
+20,support@spotify.com,New Playlist Created,0,0,0
+21,admin@pay-login.com,Payment Verification Required,1,1,1
+22,info@facebook.com,Friend Request Received,0,0,0
+23,security@fake-email.com,Account Security Alert,1,1,1
+24,noreply@instagram.com,New Post Notification,0,0,0
+25,verify@bank-net.com,Confirm Your Identity,1,1,1
+26,support@trello.com,Board Updated,0,0,0
+27,alert@secure-login.net,Password Reset Required,1,1,1
+28,info@adobe.com,Subscription Renewed,0,0,0
+29,admin@fake-paypal.com,Account Limited - Act Now,1,1,1
+30,noreply@reddit.com,New Comment on Post,0,0,0
+31,security@bank-verify.com,Verify Your Account Now,1,1,1
+32,support@notion.so,New Page Shared,0,0,0
+33,alert@fake-secure.com,Security Breach Detected,1,1,1
+34,info@airbnb.com,Booking Confirmed,0,0,0
+35,verify@login-page.com,Account Verification Needed,1,1,1
+36,noreply@discord.com,New Message in Server,0,0,0
+37,admin@secure-net.com,Update Payment Method,1,1,1
+38,support@asana.com,Task Assigned to You,0,0,0
+39,security@fake-bank.com,Account Locked - Verify Now,1,1,1
+40,info@uber.com,Trip Receipt,0,0,0
+41,alert@pay-secure.com,Payment Issue - Resolve Now,1,1,1
+42,noreply@twitch.tv,New Stream Live,0,0,0
+43,verify@fake-login.org,Login Verification Required,1,1,1
+44,support@figma.com,New Design Shared,0,0,0
+45,admin@bank-alert.com,Security Alert - Act Now,1,1,1
+46,info@shopify.com,Store Update,0,0,0
+47,security@fake-pay.com,Payment Declined - Retry,1,1,1
+48,noreply@pinterest.com,New Pin Saved,0,0,0
+49,alert@secure-login.com,Account Issue - Verify,1,1,1
+50,support@canva.com,Design Shared with You,0,0,0
+51,verify@fake-bank.net,Immediate Action Required,1,1,1
+52,info@etsy.com,Order Shipped,0,0,0
+53,admin@secure-pay.org,Payment Verification Needed,1,1,1
+54,noreply@medium.com,New Story Published,0,0,0
+55,security@fake-login.net,Account Compromised,1,1,1
+56,support@webflow.com,Site Published,0,0,0
+57,alert@bank-secure.com,Verify Your Payment,1,1,1
+58,info@patreon.com,New Pledge Received,0,0,0
+59,verify@fake-secure.net,Account Verification,1,1,1
+60,noreply@vimeo.com,Video Uploaded,0,0,0
+61,admin@pay-login.org,Update Account Details,1,1,1
+62,support@monday.com,Task Updated,0,0,0
+63,security@fake-bank.com,Security Check Required,1,1,1
+64,info@eventbrite.com,Event Registration,0,0,0
+65,alert@secure-net.org,Account Issue Detected,1,1,1
+66,noreply@strava.com,Activity Tracked,0,0,0
+67,verify@fake-login.com,Verify Your Identity Now,1,1,1
+68,support@miro.com,Board Shared,0,0,0
+69,admin@bank-verify.net,Payment Failed - Act Now,1,1,1
+70,info@squareup.com,Payment Processed,0,0,0
+71,security@fake-paypal.com,Account Limited,1,1,1
+72,noreply@quora.com,New Answer Posted,0,0,0
+73,alert@secure-login.org,Security Alert - Verify,1,1,1
+74,support@zapier.com,Automation Updated,0,0,0
+75,verify@fake-bank.net,Account Verification Needed,1,1,1
+76,info@stripe.com,Payment Confirmed,0,0,0
+77,admin@secure-pay.com,Update Payment Info,1,1,1
+78,noreply@tumblr.com,New Post Published,0,0,0
+79,security@fake-login.com,Login Attempt Detected,1,1,1
+80,support@airtable.com,Base Shared,0,0,0
+81,alert@bank-secure.net,Account Locked,1,1,1
+82,info@calendly.com,Meeting Scheduled,0,0,0
+83,verify@fake-secure.com,Verify Account Now,1,1,1
+84,noreply@behance.net,New Project Posted,0,0,0
+85,admin@pay-login.com,Payment Issue - Resolve,1,1,1
+86,support@dribbble.com,New Shot Uploaded,0,0,0
+87,security@fake-bank.org,Security Breach Alert,1,1,1
+88,info@kickstarter.com,Project Funded,0,0,0
+89,alert@secure-net.com,Account Verification,1,1,1
+90,noreply@soundcloud.com,New Track Uploaded,0,0,0
+91,verify@fake-login.net,Verify Identity,1,1,1
+92,support@wix.com,Site Updated,0,0,0
+93,admin@bank-secure.com,Payment Declined,1,1,1
+94,info@weebly.com,Website Published,0,0,0
+95,security@fake-pay.com,Account Issue - Act Now,1,1,1
+96,noreply@wordpress.com,New Post Published,0,0,0
+97,alert@secure-login.com,Security Alert,1,1,1
+98,support@squarespace.com,Site Updated,0,0,0
+99,verify@fake-bank.net,Verify Payment Method,1,1,1
+100,info@hubspot.com,New Lead Captured,0,0,0

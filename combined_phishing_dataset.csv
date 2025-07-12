@@ -1,0 +1,101 @@
+combined_text,label
+[EMAIL] Urgent: Verify Your Account FROM support@paypal-secure.com [URL] http://paypal-secure.com/login,1
+[EMAIL] Welcome to Google Services FROM info@google.com [URL] https://www.google.com,0
+[EMAIL] Your Account is Locked FROM admin@bank-login.net [URL] http://bank-login.net/verify,1
+[EMAIL] Order Confirmation FROM noreply@amazon.com [URL] https://www.amazon.com,0
+[EMAIL] Update Your Password Now FROM security@fakebank.com [URL] http://secure-paypal.com/update,1
+[EMAIL] New Repository Created FROM notifications@github.com [URL] https://www.microsoft.com,0
+[EMAIL] Account Suspension Notice FROM alert@secure-login.org [URL] http://fake-login.org/signin,1
+[EMAIL] Connection Request FROM support@linkedin.com [URL] https://www.github.com,0
+[EMAIL] Action Required: Verify Account FROM verify@netflix-login.com [URL] http://secure-bank.com/confirm,1
+[EMAIL] Windows Update Available FROM info@microsoft.com [URL] https://www.linkedin.com,0
+[EMAIL] Payment Failed - Retry Now FROM admin@secure-pay.com [URL] http://netflix-login.com/verify,1
+[EMAIL] New Message in Channel FROM team@slack.com [URL] https://www.facebook.com,0
+[EMAIL] Unusual Activity Detected FROM alert@bank-secure.net [URL] http://apple-id-verify.com,1
+[EMAIL] File Shared with You FROM support@dropbox.com [URL] https://www.twitter.com,0
+[EMAIL] Login Attempt Blocked FROM security@fake-login.com [URL] http://fake-bank.net/update,1
+[EMAIL] Meeting Scheduled FROM info@zoom.us [URL] https://www.instagram.com,0
+[EMAIL] Apple ID Verification Needed FROM verify@apple-id.com [URL] http://secure-login.org/auth,1
+[EMAIL] New Follower Notification FROM noreply@twitter.com [URL] https://www.dropbox.com,0
+[EMAIL] Update Billing Information FROM alert@secure-bank.org [URL] http://pay-secure.com/verify,1
+[EMAIL] New Playlist Created FROM support@spotify.com [URL] https://www.slack.com,0
+[EMAIL] Payment Verification Required FROM admin@pay-login.com [URL] http://bank-verify.net/login,1
+[EMAIL] Friend Request Received FROM info@facebook.com [URL] https://www.zoom.us,0
+[EMAIL] Account Security Alert FROM security@fake-email.com [URL] http://fake-paypal.com/signin,1
+[EMAIL] New Post Notification FROM noreply@instagram.com [URL] https://www.spotify.com,0
+[EMAIL] Confirm Your Identity FROM verify@bank-net.com [URL] http://secure-net.com/update,1
+[EMAIL] Board Updated FROM support@trello.com [URL] https://www.trello.com,0
+[EMAIL] Password Reset Required FROM alert@secure-login.net [URL] http://login-page.org/verify,1
+[EMAIL] Subscription Renewed FROM info@adobe.com [URL] https://www.adobe.com,0
+[EMAIL] Account Limited - Act Now FROM admin@fake-paypal.com [URL] http://fake-login.com/auth,1
+[EMAIL] New Comment on Post FROM noreply@reddit.com [URL] https://www.reddit.com,0
+[EMAIL] Verify Your Account Now FROM security@bank-verify.com [URL] http://bank-secure.net/confirm,1
+[EMAIL] New Page Shared FROM support@notion.so [URL] https://www.notion.so,0
+[EMAIL] Security Breach Detected FROM alert@fake-secure.com [URL] http://pay-login.com/verify,1
+[EMAIL] Booking Confirmed FROM info@airbnb.com [URL] https://www.airbnb.com,0
+[EMAIL] Account Verification Needed FROM verify@login-page.com [URL] http://secure-bank.org/signin,1
+[EMAIL] New Message in Server FROM noreply@discord.com [URL] https://www.discord.com,0
+[EMAIL] Update Payment Method FROM admin@secure-net.com [URL] http://fake-secure.com/update,1
+[EMAIL] Task Assigned to You FROM support@asana.com [URL] https://www.figma.com,0
+[EMAIL] Account Locked - Verify Now FROM security@fake-bank.com [URL] http://login-verify.net/auth,1
+[EMAIL] Trip Receipt FROM info@uber.com [URL] https://www.uber.com,0
+[EMAIL] Payment Issue - Resolve Now FROM alert@pay-secure.com [URL] http://pay-secure.net/confirm,1
+[EMAIL] New Stream Live FROM noreply@twitch.tv [URL] https://www.twitch.tv,0
+[EMAIL] Login Verification Required FROM verify@fake-login.org [URL] http://fake-bank.com/login,1
+[EMAIL] New Design Shared FROM support@figma.com [URL] https://www.canva.com,0
+[EMAIL] Security Alert - Act Now FROM admin@bank-alert.com [URL] http://secure-login.net/verify,1
+[EMAIL] Store Update FROM info@shopify.com [URL] https://www.shopify.com,0
+[EMAIL] Payment Declined - Retry FROM security@fake-pay.com [URL] http://fake-pay.com/update,1
+[EMAIL] New Pin Saved FROM noreply@pinterest.com [URL] https://www.pinterest.com,0
+[EMAIL] Account Issue - Verify FROM alert@secure-login.com [URL] http://bank-alert.net/signin,1
+[EMAIL] Design Shared with You FROM support@canva.com [URL] https://www.etsy.com,0
+[EMAIL] Immediate Action Required FROM verify@fake-bank.net [URL] http://fake-secure.net/verify,1
+[EMAIL] Order Shipped FROM info@etsy.com [URL] https://www.medium.com,0
+[EMAIL] Payment Verification Needed FROM admin@secure-pay.org [URL] http://pay-login.org/auth,1
+[EMAIL] New Story Published FROM noreply@medium.com [URL] https://www.vimeo.com,0
+[EMAIL] Account Compromised FROM security@fake-login.net [URL] http://secure-bank.com/login,1
+[EMAIL] Site Published FROM support@webflow.com [URL] https://www.patreon.com,0
+[EMAIL] Verify Your Payment FROM alert@bank-secure.com [URL] http://fake-login.net/update,1
+[EMAIL] New Pledge Received FROM info@patreon.com [URL] https://www.asana.com,0
+[EMAIL] Account Verification FROM verify@fake-secure.net [URL] http://bank-verify.com/confirm,1
+[EMAIL] Video Uploaded FROM noreply@vimeo.com [URL] https://www.eventbrite.com,0
+[EMAIL] Update Account Details FROM admin@pay-login.org [URL] http://pay-secure.com/signin,1
+[EMAIL] Task Updated FROM support@monday.com [URL] https://www.strava.com,0
+[EMAIL] Security Check Required FROM security@fake-bank.com [URL] http://fake-bank.net/auth,1
+[EMAIL] Event Registration FROM info@eventbrite.com [URL] https://www.miro.com,0
+[EMAIL] Account Issue Detected FROM alert@secure-net.org [URL] http://secure-login.org/verify,1
+[EMAIL] Activity Tracked FROM noreply@strava.com [URL] https://www.squareup.com,0
+[EMAIL] Verify Your Identity Now FROM verify@fake-login.com [URL] http://fake-paypal.net/login,1
+[EMAIL] Board Shared FROM support@miro.com [URL] https://www.quora.com,0
+[EMAIL] Payment Failed - Act Now FROM admin@bank-verify.net [URL] http://bank-secure.com/update,1
+[EMAIL] Payment Processed FROM info@squareup.com [URL] https://www.zapier.com,0
+[EMAIL] Account Limited FROM security@fake-paypal.com [URL] http://fake-login.com/verify,1
+[EMAIL] New Answer Posted FROM noreply@quora.com [URL] https://www.stripe.com,0
+[EMAIL] Security Alert - Verify FROM alert@secure-login.org [URL] http://pay-login.net/signin,1
+[EMAIL] Automation Updated FROM support@zapier.com [URL] https://www.tumblr.com,0
+[EMAIL] Account Verification Needed FROM verify@fake-bank.net [URL] http://secure-bank.net/auth,1
+[EMAIL] Payment Confirmed FROM info@stripe.com [URL] https://www.airtable.com,0
+[EMAIL] Update Payment Info FROM admin@secure-pay.com [URL] http://fake-secure.com/login,1
+[EMAIL] New Post Published FROM noreply@tumblr.com [URL] https://www.calendly.com,0
+[EMAIL] Login Attempt Detected FROM security@fake-login.com [URL] http://bank-alert.com/verify,1
+[EMAIL] Base Shared FROM support@airtable.com [URL] https://www.behance.net,0
+[EMAIL] Account Locked FROM alert@bank-secure.net [URL] http://pay-secure.net/update,1
+[EMAIL] Meeting Scheduled FROM info@calendly.com [URL] https://www.dribbble.com,0
+[EMAIL] Verify Account Now FROM verify@fake-secure.com [URL] http://fake-login.org/confirm,1
+[EMAIL] New Project Posted FROM noreply@behance.net [URL] https://www.kickstarter.com,0
+[EMAIL] Payment Issue - Resolve FROM admin@pay-login.com [URL] http://secure-net.com/signin,1
+[EMAIL] New Shot Uploaded FROM support@dribbble.com [URL] https://www.soundcloud.com,0
+[EMAIL] Security Breach Alert FROM security@fake-bank.org [URL] http://bank-verify.net/login,1
+[EMAIL] Project Funded FROM info@kickstarter.com [URL] https://www.wix.com,0
+[EMAIL] Account Verification FROM alert@secure-net.com [URL] http://fake-pay.com/verify,1
+[EMAIL] New Track Uploaded FROM noreply@soundcloud.com [URL] https://www.weebly.com,0
+[EMAIL] Verify Identity FROM verify@fake-login.net [URL] http://secure-login.net/auth,1
+[EMAIL] Site Updated FROM support@wix.com [URL] https://www.wordpress.com,0
+[EMAIL] Payment Declined FROM admin@bank-secure.com [URL] http://fake-bank.com/update,1
+[EMAIL] Website Published FROM info@weebly.com [URL] https://www.squarespace.com,0
+[EMAIL] Account Issue - Act Now FROM security@fake-pay.com [URL] http://pay-login.com/confirm,1
+[EMAIL] New Post Published FROM noreply@wordpress.com [URL] https://www.hubspot.com,0
+[EMAIL] Security Alert FROM alert@secure-login.com [URL] http://secure-bank.net/verify,1
+[EMAIL] Site Updated FROM support@squarespace.com [URL] https://www.mailchimp.com,0
+[EMAIL] Verify Payment Method FROM verify@fake-bank.net [URL] http://fake-secure.com/signin,1
+[EMAIL] New Lead Captured FROM info@hubspot.com [URL] https://www.salesforce.com,0
